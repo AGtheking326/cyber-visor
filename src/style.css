@@ -1,0 +1,15 @@
+body, html {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: black;
+}
+
+canvas {
+  display: block;
+}
+
+.glow-on-hover:hover {
+  text-shadow: 0 0 12px #00d4ff;
+  color: #00d4ff;
+}
